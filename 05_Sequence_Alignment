@@ -64,4 +64,4 @@ Upload the following screenshots:
 - BWA-MEM alignment command
 - Alignment completion in terminal
 - `ls -lh patient.sam`
-- `head patient.sam'
+- `head patient.sam`
